@@ -1,12 +1,8 @@
-# 35c3
+# 36c3
 
-Chaos Communication Congress 2018 Schedule on the Command Line
+Chaos Communication Congress 2019 Schedule on the Command Line
 
-[![npm](https://img.shields.io/npm/v/35c3.svg)](https://www.npmjs.com/package/35c3)
-[![Build status](https://travis-ci.org/watson/35c3.svg?branch=master)](https://travis-ci.org/watson/35c3)
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
-
-![35c3-10fps](https://user-images.githubusercontent.com/10602/50473894-1d826880-09bf-11e9-9c59-d3028129d9ec.gif)
+[![npm](https://img.shields.io/npm/v/36c3.svg)](https://www.npmjs.com/package/36c3)
 
 ## Install
 
@@ -14,13 +10,13 @@ If you're running Node.js 8 or higher, you don't need to install
 anything as this tool can simply be run using:
 
 ```
-npx 35c3
+npx 36c3-shitty
 ```
 
-But if you whish, you can install it globally like in the old days:
+But if you wish, you can install it globally like in the old days:
 
 ```
-npm install 35c3 -g
+npm install 36c3-shitty -g
 ```
 
 ## Usage
@@ -28,13 +24,13 @@ npm install 35c3 -g
 Show the next talk today:
 
 ```
-35c3
+36c3
 ```
 
 Get help using the `--help` option:
 
 ```
-Usage: 35c3 [options]
+Usage: 36c3 [options]
 
  --help, -h    Show this help
  --version, -v Show version
@@ -44,3 +40,9 @@ Usage: 35c3 [options]
 ## License
 
 [MIT](LICENSE)
+
+## Acknowledgements
+Thanks to Watson for his excellent [35c3 calendar app](https://github.com/watson/35c3/). This is just a shitty, somewhat
+buggy port of that for the 2019 edition of CCC.
+
+Patches welcome <3
