@@ -1,6 +1,6 @@
 {
   "name": "36c3-shitty",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "Chaos Communication Congress 2019 Schedule on the Command Line",
   "bin": "index.js",
   "scripts": {
