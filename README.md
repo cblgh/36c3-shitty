@@ -2,8 +2,6 @@
 
 Chaos Communication Congress 2019 Schedule on the Command Line
 
-[![npm](https://img.shields.io/npm/v/36c3.svg)](https://www.npmjs.com/package/36c3)
-
 ## Install
 
 If you're running Node.js 8 or higher, you don't need to install
